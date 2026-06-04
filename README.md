@@ -91,6 +91,9 @@ Run Specific Test: mvn -Dtest=ClassName test
 * CI/CD using GitHub Actions
 * UI + API Automation using Playwright and Rest Assured
 
+** The test script and framework is important u dont need to install all the thing. Just look through the maven and structure of the project**
+**Don't look for target file/folder it will generate automatically when u run the test**
+
 
 **NOTE**: * Before getting started, ensure to lookup the structure and this file (README.md)...
       
