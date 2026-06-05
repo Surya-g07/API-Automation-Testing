@@ -2,6 +2,10 @@
 This project demonstrates API Automation Testing using REST Assured, Java, TestNG, and Maven. The framework covers end-to-end CRUD operations on REST APIs along with authentication, request/response validation, serialization, deserialization, path parameters, query parameters, and negative test scenarios.
 
 
+(**Important thing: Don't expect correct output always, because this api is public and demo site, so many learners would be use this site for practicing.
+**)
+
+
 Project Overview
 
 # REST Assured API Automation Framework
